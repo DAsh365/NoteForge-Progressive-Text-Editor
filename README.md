@@ -1,4 +1,4 @@
-# PWA Text Editor
+# NoteForge-Progressive-Text-Editor
 
 ## Description
 
@@ -56,7 +56,7 @@ To run this application locally, follow these steps:
 
 ## Deployed Application
 
-The application is deployed on Render and can be accessed [here](https://readify-pwa-text-editor.onrender.com).
+The application is deployed on Render and can be accessed [here](https://noteforge-progressive-text-editor.onrender.com).
 
 ## Credits
 
