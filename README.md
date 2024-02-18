@@ -17,7 +17,7 @@ To run this application locally, follow these steps:
 2. Navigate to the project directory:
 
    ```bash
-   cd pwa-text-editor
+   cd NoteForge-Progressive-Text-Editor
    ```
 
 3. Install the dependencies:
